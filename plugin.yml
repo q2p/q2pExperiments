@@ -1,0 +1,18 @@
+main: danbit.dbexperiments.Experiments
+name: DBexperiments
+version: 1.0
+author: DanBit
+description: DanBit's Experiments
+commands:
+  howto:
+    description: Guide
+    usage: /howto
+  hand:
+    description: Gives you a hand
+    usage: /hand
+  ring:
+    description: Gives you a ring
+    usage: /ring
+  benchmark:
+    description: Toggles benchmark
+    usage: /benchmark
